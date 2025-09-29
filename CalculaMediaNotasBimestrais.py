@@ -7,12 +7,12 @@
 # que é justamente a abordagem de implementação que escolhi.
 
 # Lista de bimestres para auxiliar na exibição de dados na tela.
-bimestre = [
+bimestre = (
     "Primeiro Bimestre",
     "Segundo Bimestre",
     "Terceiro Bimestre",
     "Quarto Bimestre"
-]
+)
 
 # Lista para armazenar as notas no sistema.
 lista_de_notas = []
